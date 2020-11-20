@@ -1,0 +1,14 @@
+Pushing 0 into the stack 
+Pushing 1 into the stack 
+Pushing 2 into the stack 
+Pushing 3 into the stack 
+Pushing 4 into the stack 
+Pushing 5 into the stack 
+Pushing 6 into the stack 
+Pushing 7 into the stack 
+Pushing 8 into the stack 
+Pushing 9 into the stack 
+Popped 1st value, the value is: 9 
+Popped 2nd value, the value is: 8 
+Popped 3rd value, the value is: 7 
+Is the stack empty? 0 
