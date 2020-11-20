@@ -1,0 +1,13 @@
+Creating a stack with 10 items...
+Stack is empty.
+Pushing 3 into the stack.
+Pushing 5 into the stack.
+Pushing 7 into the stack.
+Pushing 9 into the stack.
+Pushing 11 into the stack.
+Pushing 13 into the stack.
+
+ Now the stack looks like this: [3, 5, 7, 9, 11, 13]
+The top element of the stack is currently: 13
+Popping two items from the stack... 
+The top element is now: 9
